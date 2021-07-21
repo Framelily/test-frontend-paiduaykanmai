@@ -17,7 +17,7 @@ function PageFunction1() {
 
   return (
     <div>
-      <div className="shopOne">
+      <div className="boxcode">
         <div><pre>{JSON.stringify(productData, null, 2) }</pre></div>
       </div>
     </div>

@@ -135,15 +135,6 @@ pre {
 @media (max-width: 575.98px) {
   .menu a {
     font-size: 12px;
-    font-weight: 600;
-    color: #000000;
-    height: 40px;
-    width: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 5px;
-    text-decoration: none;
     margin-left: 0px;
   }
 }
